@@ -1,0 +1,2 @@
+GO111MODULE=auto
+GOBIN=/home/tenyee/go-with-mod/bin
